@@ -15,6 +15,6 @@ The JSON Schema Generator is a Python program that reads a JSON file, sniffs its
 2. The generated JSON schemas will be saved in the `schema` directory.
 
 ## Testing
-1. Run the unit tests: `python -m unittest discover`
+1. Run the unit tests: `python -m unittest`
 
 
